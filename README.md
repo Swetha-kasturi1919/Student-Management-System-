@@ -1,4 +1,4 @@
-🎓 Student Management System
+#Student Management System
 A complete CRUD-based web application built using Django, SQLite, Bootstrap, and Chart.js.
 This project demonstrates database design, user authentication, CRUD operations, data visualization, and version control with Git/GitHub.
 ________________________________________
@@ -105,7 +105,7 @@ cd sms-project
 3. Create Virtual Environment
 python -m venv venv
 venv\Scripts\activate   # On Windows
-# OR
+( OR)
 source venv/bin/activate   # On Mac/Linux
 
 3. Run Migrations
