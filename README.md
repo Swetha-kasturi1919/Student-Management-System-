@@ -1,4 +1,4 @@
-#Student Management System
+# Student Management System
 A complete CRUD-based web application built using Django, SQLite, Bootstrap, and Chart.js.
 This project demonstrates database design, user authentication, CRUD operations, data visualization, and version control with Git/GitHub.
 ________________________________________
